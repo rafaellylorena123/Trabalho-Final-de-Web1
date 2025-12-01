@@ -1,0 +1,270 @@
+.tudo {
+    background-color: #ff9595;
+}
+
+.titulo2 {
+    margin:0%;
+    border-top:100px solid #ffb2b2;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 1.5%;
+    padding-left: 5%;
+    text-align: left;
+    color: rgb(170, 59, 59);
+    left: 0%;
+    top: 0%;
+    width: 95.02%;
+    position:absolute;
+    background-color: #ffb2b2;
+    font-size: 625%;
+}
+
+                        .Início{
+                            z-index: 10;
+                            border: 10px solid #ff9595;
+                            border-radius: 50px;
+                            width: auto;
+                            height: auto;
+                            text-align: center;
+                            font-size: 210%;
+                            position: absolute;
+                            left:55%;
+                            top:8%;
+                            background-color: #ff9595;
+                            color: rgb(170, 59, 59);
+                        }
+
+                        .Sobre{
+                            z-index: 10;
+                            border: 10px solid #ff9595;
+                            border-radius: 50px;
+                            width: auto;
+                            height: auto;
+                            text-align: center;
+                            font-size: 210%;
+                            position: absolute;
+                            left:70%;
+                            top:8%;
+                            background-color: #ff9595;
+                            color: rgb(170, 59, 59);
+                        }
+
+                        .Contato{
+                            z-index: 10;
+                            border: 10px solid #ff9595;
+                            border-radius: 50px;
+                            width: auto;
+                            height: auto;
+                            text-align: center;
+                            font-size: 210%;
+                            position: absolute;
+                            left:85%;
+                            top:8%;
+                            background-color: #ff9595;
+                            color: rgb(170, 59, 59);
+                        }
+
+                                                .quadrado1{
+                                                    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                                                    color: rgb(170, 59, 59);
+                                                    border: 1px solid #ffb2b2;
+                                                    border-radius: 20px;
+                                                    padding-top: 1%;
+                                                    text-align: center;
+                                                    left: 5%;
+                                                    position: absolute;
+                                                    width: 15%;
+                                                    font-size: 200%;
+                                                    background-color: #ffb2b2;
+                                                    top: 35%;
+                                                }
+
+                                                .quadrado2{
+                                                    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                                                    color: rgb(170, 59, 59);
+                                                    border: 1px solid #ffb2b2;
+                                                    border-radius: 20px;
+                                                    padding-top: 1%;
+                                                    text-align: center;
+                                                    left: 5%;
+                                                    position: absolute;
+                                                    width: 15%;
+                                                    font-size: 200%;
+                                                    background-color: #ffb2b2;
+                                                    top: 83%;
+                                                }
+
+                                                .quadrado3{
+                                                    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                                                    color: rgb(170, 59, 59);
+                                                    border: 1px solid #ffb2b2;
+                                                    border-radius: 20px;
+                                                    padding-top: 1%;
+                                                    text-align: center;
+                                                    left: 25%;
+                                                    position: absolute;
+                                                    width: 15%;
+                                                    font-size: 200%;
+                                                    background-color: #ffb2b2;
+                                                    top: 35%;
+                                                }
+
+                                                .quadrado4{
+                                                    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                                                    color: rgb(170, 59, 59);
+                                                    border: 1px solid #ffb2b2;
+                                                    border-radius: 20px;
+                                                    padding-top: 1%;
+                                                    text-align: center;
+                                                    left: 25%;
+                                                    position: absolute;
+                                                    width: 15%;
+                                                    font-size: 200%;
+                                                    background-color: #ffb2b2;
+                                                    top: 83%;
+                                                }
+
+                                                .quadrado5{
+                                                    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                                                    color: rgb(170, 59, 59);
+                                                    border: 1px solid #ffb2b2;
+                                                    border-radius: 20px;
+                                                    padding-top: 1%;
+                                                    text-align: center;
+                                                    left: 45%;
+                                                    position: absolute;
+                                                    width: 15%;
+                                                    font-size: 200%;
+                                                    background-color: #ffb2b2;
+                                                    top: 35%;
+                                                }
+
+                                                .quadrado6{
+                                                    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                                                    color: rgb(170, 59, 59);
+                                                    border: 1px solid #ffb2b2;
+                                                    border-radius: 20px;
+                                                    padding-top: 1%;
+                                                    text-align: center;
+                                                    left: 45%;
+                                                    position: absolute;
+                                                    width: 15%;
+                                                    font-size: 200%;
+                                                    background-color: #ffb2b2;
+                                                    top: 83%;
+                                                }
+
+                                                .quadrado7{
+                                                    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                                                    color: rgb(170, 59, 59);
+                                                    border: 10px solid #ffb2b2;
+                                                    border-radius: 30px;
+                                                    padding-top:0%;
+                                                    text-align: center;
+                                                    top:50%;
+                                                    left: 5%;
+                                                    position: absolute;
+                                                    width: 28%;
+                                                    font-size: 200%;
+                                                    background-color: #ffb2b2;
+                                                }
+                        .textoSobre1{
+                            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                            color: rgb(170, 59, 59);
+                            border: 10px solid #ffb2b2;
+                            border-radius: 30px;
+                            padding-top:0%;
+                            top:48%;
+                            left: 65%;
+                            position: absolute;
+                            width: 28%;
+                            height: 70%;
+                            font-size: 100%;
+                            background-color: #ffb2b2;
+                            }     
+
+                            .textoSobre2{
+                            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                            color: rgb(170, 59, 59);
+                            border: 10px solid #ffb2b2;
+                            border-radius: 30px;
+                            padding-top:0%;
+                            text-align: center;
+                            top:50%;
+                            left: 5%;
+                            position: absolute;
+                            width: 28%;
+                            font-size: 200%;
+                            background-color: #ffb2b2;
+                            }      
+
+                        .texto {
+                            border: 35px solid #ffb2b2;
+                            border-radius: 50px;
+                            font-size: 110%;
+                            position: absolute;
+                            top: 50%;
+                            width: 17%;
+                            background-color: #ffb2b2;
+                            left: 75.5%;
+                        }
+
+            form {
+                width: 300px;
+                margin: 20px auto;
+                padding: 20px;
+                background: #ffe5e5;
+                border-radius: 10px;
+                font-family: Arial;
+            }
+
+            input {
+                width: 100%;
+                padding: 8px;
+                margin-top: 5px;
+            }
+
+            button {
+                width: 100%;
+                padding: 10px;
+                background: #ff7a7a;
+                color: white;
+                border-radius: 5px;
+                cursor: pointer;
+            }
+
+.rodape1 {
+    padding-left: 5%;
+    top:140%;
+    position: absolute;
+    font-size: 150%;
+    background-color:#ffb2b2;
+    color:black;
+    z-index: 10;
+}
+
+.rodape2 {
+    padding-top: 1%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:200%;
+    left: 0%;
+    padding-left: 5%;
+    width: 95.02%;
+    height: 20%;
+    top:130%;
+    position:absolute;
+    color: rgb(170, 59, 59);
+    background-color: #ffb2b2;
+} 
+
+.rodape3 {
+    border:3px solid #ffffff;
+    border: 50px;
+    z-index: 10;
+    position:fixed;
+    background-color:#ffffff;
+    padding: 10px;
+    font-size: 18px;
+    width: 300px;
+    bottom: 0%;
+    left: 75.5%;
+}
